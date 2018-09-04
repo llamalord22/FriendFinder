@@ -1,4 +1,4 @@
-var friends = [
+var friendArray = [
     {
         name: "Chase Llama",
         photo: "http://placehold.it/200x200",
@@ -21,4 +21,4 @@ var friends = [
     }
 ];
 
-module.exports = friends;
+module.exports = friendArray;
